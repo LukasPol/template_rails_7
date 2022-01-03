@@ -34,3 +34,10 @@
 !/app/assets/builds/.keep
 
 /node_modules
+
+# Env variables
+.env
+
+# IDE / Editor
+.idea/
+.vscode
